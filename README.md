@@ -25,5 +25,4 @@ Flask server to receive GitHub webhook events, store them in MongoDB, and displa
 
 ---
 
-## 🗺️ Project Structure
 
